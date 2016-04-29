@@ -224,7 +224,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "addplug"
     },
     sudo_users = {206480168,196314022},--Sudo users
     disabled_channels = {},
@@ -244,7 +245,7 @@ English: OOOOO
 Persian: OOOOO
 ]],
     help_text_realm = [[
-Realm Commands:
+ ☠Telekiller robot☠ Commands:
 
 !creategroup [name]
 Create a group
